@@ -1,7 +1,8 @@
-![1500x500](https://github.com/user-attachments/assets/8454d5d6-cacc-445d-b234-af0f2893b3ba)
+<img width="2048" height="512" alt="image" src="https://github.com/user-attachments/assets/a3251b53-a0ef-4fcd-991a-0bdfb5acf212" />
+
 > ### Stellar Document
 **Purpose:**
-This document covers serious issues caused by the **Stellar** group, an OG Fortnite community similar to Nova or Era. Solaris has been the source of hate, drama, and harmful behavior toward others. The OG Fortnite community was meant to be a space where people supported each other, but that changed because of their actions.
+This document covers serious issues caused by the **Stellar** group, an OG Fortnite community similar to Nova or Era. Stellar has been the source of hate, drama, and harmful behavior toward others. The OG Fortnite community was meant to be a space where people supported each other, but that changed because of their actions.
 
 **What This Covers:**
 * [x] **Doxxing** *(Sharing someone’s private information without permission.)*
