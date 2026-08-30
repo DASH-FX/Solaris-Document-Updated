@@ -12,3 +12,8 @@ Tiva was recorded using external exploits through a separate backend to log into
 caught cheating on an OG Fortnite private server, EZFN. He used someone else's name, `rio.dev`, while cheating and ended up slandering them when in reality, he was the one cheating all along.
 
 [Tiva Cheating on EZFN](https://github.com/user-attachments/assets/a4316977-24df-4ede-b7bd-b90765855046)
+
+---
+
+## Tiva Cheating on his own project
+caught cheating on his own project under a new alias 'OrbitalController54'. he claimed this was only 1 game but the recording shows several games being played.

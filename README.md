@@ -11,6 +11,6 @@ This document covers serious issues caused by the **Stellar** group, an OG Fortn
 * [x] **Racism & Hate speech** *(Saying or doing things that disrespect others for who they are.)*
 * [x] **Sexual misconduct** *(Inappropriate behavior or messages, especially toward minors.)*
 * [x] **Pedophilia** *(Extremely serious behavior involving minors that cannot be ignored.)*
-* [x] **Scamming** *(Providing promised content or perks to a donator, then later removing or revoking them without reason.)*
+* [x] **Scamming** *(Providing promised content or perks to a Solaris donator, then later removing or revoking them without reason.)*
 
 > ***Note:*** People who were involved in these actions are named in this document. Some helpers who contributed asked to remain anonymous for their safety or peace of mind. Their names have been hidden and we fully respect their privacy.
