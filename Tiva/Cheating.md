@@ -1,4 +1,4 @@
-## The founder of Solaris was caught cheating on other projects
+## The founder of Stellar  was caught cheating on other projects
 Tiva was recorded using external exploits through a separate backend to log into other servers and cheat. The username visible in the bottom-left corner confirms it is Tiva, and the username includes a racist slur.
 
 ![446800688-b1d264db-e75d-48ab-9261-863c7a2b7d56](https://github.com/user-attachments/assets/efc05d0f-ae0b-417f-ba30-2f3701b13a26)
