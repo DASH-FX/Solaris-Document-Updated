@@ -11,7 +11,7 @@ Andrew was recorded using external exploits through a separate backend to log in
 ## Andrew  Cheating
 caught cheating on an OG Fortnite private server, EZFN. He used someone else's name, `rio.dev`, while cheating and ended up slandering them when in reality, he was the one cheating all along.
 
-[Tiva Cheating on EZFN](https://github.com/user-attachments/assets/a4316977-24df-4ede-b7bd-b90765855046)
+[Andrew Cheating on EZFN](https://github.com/user-attachments/assets/a4316977-24df-4ede-b7bd-b90765855046)
 
 ---
 
