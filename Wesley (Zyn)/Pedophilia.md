@@ -1,0 +1,2 @@
+### Wesley admits to sending CP to users
+Modder known as Wesley (now zyn, who is best friends with Andrew, despite him being in this group chat) admitting in this group chat that they sent CP to another high ranking Stellar member. Zyn, originally known as Wesley who was banned from Discord for his disgusting behaviour, he made the "zyn" account in order to attempt to wipe his bad reputation clean.
